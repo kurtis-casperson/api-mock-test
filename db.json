@@ -1,0 +1,33 @@
+{
+  "clients": [
+    {
+      "first": "John",
+      "last": "Smith",
+      "city": "San Diego",
+      "email": "johnSmith@gmail.com",
+      "id": "1"
+    },
+    {
+      "first": "Sarah",
+      "last": "Smith",
+      "city": "San Francisco",
+      "email": "SarahS@gmail.com",
+      "id": "2"
+    }
+   ],
+  "position": [
+    {
+      "id": 1,
+      "body": "Design team",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Sarah's comment",
+      "postId": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
