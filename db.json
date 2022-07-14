@@ -13,8 +13,27 @@
       "city": "San Francisco",
       "email": "SarahS@gmail.com",
       "id": "2"
-    }
-   ],
+    },
+    [
+      {
+        "first": "brad",
+        "last": "man",
+        "city": "San Diego",
+        "email": "brad11@gmail.com",
+        "id": "3"
+      }
+    ],
+    
+    [
+      {
+        "first": "jim",
+        "last": "kolt",
+        "city": "San Antonio",
+        "email": "jimmy@gmail.com",
+        "id": "5"
+      }
+    ]
+  ],
   "position": [
     {
       "id": 1,
